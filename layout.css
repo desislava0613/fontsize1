@@ -1,0 +1,12 @@
+html{
+    
+    max-width: 60em;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+
